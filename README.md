@@ -14,3 +14,5 @@ open the .exe
 //
 if you dont want to use it again , just click Revert to original button.
 //
+
+gold count irreversible, do it wisely..
