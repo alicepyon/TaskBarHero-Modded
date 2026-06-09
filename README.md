@@ -1,6 +1,8 @@
 # TBH-Modded
 how to use : 
 
+open it in cmd and type : py tbh2.py / python tbh2.py
+
 1. select your GameAssembly.dll in steam game folder
 
 2. select the option you want
