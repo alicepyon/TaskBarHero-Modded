@@ -23,7 +23,7 @@ For denoiser v.1.0.9 , you need to downgrade your version :
 2. steam://open/console
 3. download_depot 3678970 3678971 1821888489086080609
 4. search your downloaded version in your steamapps , content , idk forget . . . just find similarity to the number above
-5. copy to your TaskBarHero game folder, don't replace the original just change the original folder to something
+5. copy to your STEAM folder where HeroTaskBar folder is, but don't replace the original just change the original folder to something
 6. make your steam go offline
 7. open the game
 8. open the apps that you download in release
