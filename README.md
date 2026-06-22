@@ -37,16 +37,16 @@ For denoiser v.1.0.9 , you need to downgrade your version :
 # 1.0.17
 
 this is item dropper. i will not answer anything. test it yourself.
-1.change id to whatever you like in config
+1. change id to whatever you like in config
 how to use? 
-2.use install_requirements.bat
-3.run self_test.bat make sure no error and it say ok
-4.run run_proxy.bat
-5.change Windows HTTP/HTTPS proxy to 127.0.0.1:8877
-6.keep the proxy running, open this in a browser, then click the Windows certificate: http://mitm.it
-7.certification path in your local folder : %USERPROFILE%\.mitmproxy\mitmproxy-ca-cert.cer
-8.Install the certificate, current user, browse and install to : Trusted Root Certification Authorities
-9.Start the game and afk to get the box reward request.
-10.When finished, disable the Windows proxy!
+2. use install_requirements.bat
+3. run self_test.bat make sure no error and it say ok
+4. run run_proxy.bat
+5. change Windows HTTP/HTTPS proxy to 127.0.0.1:8877
+6. keep the proxy running, open this in a browser, then click the Windows certificate: http://mitm.it
+7. certification path in your local folder : %USERPROFILE%\.mitmproxy\mitmproxy-ca-cert.cer
+8. Install the certificate, current user, browse and install to : Trusted Root Certification Authorities
+9. Start the game and afk to get the box reward request.
+10. When finished, disable the Windows proxy!
 
 11. server sided.
