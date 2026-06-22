@@ -1,4 +1,7 @@
 # TaskBar Hero Modded
+-------------------------
+# All credits to rightful owner -
+
 how to use for 1.0.11 only :
 
 open the .exe
