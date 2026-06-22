@@ -33,3 +33,20 @@ For denoiser v.1.0.9 , you need to downgrade your version :
 12. just click the cosmic gear you want then check id in url. paste to item spawner and done.
 13. if you done spawn every item, equip it and go close the game, change the game directory to original, go steam to online, and play.
 14. remember you can't add enggraving,decoration,etc except equipment or fullset gear only! and you can't modify your spawned item too in cube. it will said invalid because mismatch with your steam. or the simplicity is it client side only, but the stats was usable.
+=================================================================================
+# 1.0.17
+
+this is item dropper. i will not answer anything. test it yourself.
+change id to whatever you like in config
+how to use? 
+use install_requirements.bat
+run self_test.bat make sure no error and it say ok
+run run_proxy.bat
+change Windows HTTP/HTTPS proxy to 127.0.0.1:8877
+keep the proxy running, open this in a browser, then click the Windows certificate: http://mitm.it
+certification path in your local folder : %USERPROFILE%\.mitmproxy\mitmproxy-ca-cert.cer
+Install the certificate, current user, browse and install to : Trusted Root Certification Authorities
+Start the game and afk to get the box reward request.
+When finished, disable the Windows proxy!
+
+server sided.
